@@ -23,7 +23,7 @@ var value4 = "24inc";
         window.alert localStorage.setItem(key3, value3);
         window.alert localStorage.setItem(key4, value4);
         
-        alert("Haroon");
+        window.alert("Haroon");
     }
 	
 //this function updates the display any changes made
