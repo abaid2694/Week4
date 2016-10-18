@@ -23,6 +23,9 @@ var value4 = "24inc";
         window.localStorage.setItem(key3, value3);
         window.localStorage.setItem(key4, value4);
         
+        
+        alert(window.localStorage.getItem(key3));
+        
     }
 	
 //this function updates the display any changes made
