@@ -17,13 +17,12 @@ var value4 = "24inc";
 //this function check the first command if the device is ready or not
     function onLoad() {
         
-        window.alert localStorage.setItem(key, value);
+        window.alert.localStorage.setItem(key, value);
         window.alert localStorage.setItem(key1, value1);
         window.alert localStorage.setItem(key2, value2);
         window.alert localStorage.setItem(key3, value3);
         window.alert localStorage.setItem(key4, value4);
         
-        window.alert("Haroon");
     }
 	
 //this function updates the display any changes made
