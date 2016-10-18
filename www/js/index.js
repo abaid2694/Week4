@@ -18,10 +18,10 @@ var value4 = "24inc";
     function onLoad() {
         
         window.alert.localStorage.setItem(key, value);
-        window.alert localStorage.setItem(key1, value1);
-        window.alert localStorage.setItem(key2, value2);
-        window.alert localStorage.setItem(key3, value3);
-        window.alert localStorage.setItem(key4, value4);
+        window.alert.localStorage.setItem(key1, value1);
+        window.alert.localStorage.setItem(key2, value2);
+        window.alert.localStorage.setItem(key3, value3);
+        window.alert.localStorage.setItem(key4, value4);
         
     }
 	
